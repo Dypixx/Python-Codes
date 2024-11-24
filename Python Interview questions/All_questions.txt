@@ -1,0 +1,21 @@
+Q1. Write a Python function that takes a list of integers as input and returns all duplicate numbers found in the list.
+
+Q2. Write a function to merge overlapping intervals in a list of interval pairs.
+
+Q3. Write a function to check if a given string containing the characters (), {}, and [] is valid. A string is considered valid if all brackets are properly nested and closed.
+
+Q4. Find the length of the longest substring in a string that has no repeating characters.
+
+Q5. Given a list of strings, group them into lists of anagrams.
+
+Q6. Rotate a square matrix by 90 degrees clockwise in place.
+
+Q7. Decode a string encoded with numbers and brackets, like "3[a2[c]]", into "accaccacc"
+
+Q8. You are given a string "s" consisting of lowercase letters. Your task is to encode the string in a compressed form where repeated characters are grouped together, and the count of those characters is included in square brackets.
+
+Q9. Implement a Least Recently Used (LRU) Cache with get and put operations.
+
+Q10. Find the kth largest element in an unsorted array.
+
+Q11. Determine if a string can be segmented into a sequence of dictionary words.
